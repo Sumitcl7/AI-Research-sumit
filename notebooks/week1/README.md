@@ -16,7 +16,7 @@ The focus for this week is understanding and implementing \*\*Linear Regression\
 
 
 
-### \*\*Overview\*\*
+### **Overview**
 
 This notebook introduces the fundamentals of \*\*Linear Regression\*\*, one of the simplest and most important models in Machine Learning.  
 
@@ -36,7 +36,7 @@ It is designed to help understand:
 
 
 
-This notebook is part of the \*\*Day 3 task\*\* in the project timeline.
+This notebook is part of the **Day 3 task** in the project timeline.
 
 
 
@@ -48,7 +48,7 @@ This notebook is part of the \*\*Day 3 task\*\* in the project timeline.
 
 
 
-### 1. \*\*Setup \& Imports\*\*
+### 1. **Setup \& Imports**
 
 Initial configuration including:
 
@@ -70,7 +70,7 @@ A reproducible `seed = 42` is set.
 
 
 
-### 2. \*\*Synthetic Dataset Generation\*\*
+### 2. **Synthetic Dataset Generation**
 
 We generate a simple dataset using:
 
@@ -84,7 +84,7 @@ This helps visualize how linear regression works without requiring any external 
 
 
 
-### 3. \*\*Scatter Plot Visualization\*\*
+### 3. **Scatter Plot Visualization**
 
 A basic scatter plot is included to observe the relationship between `X` and `y`.
 
@@ -98,7 +98,7 @@ A basic scatter plot is included to observe the relationship between `X` and `y`
 
 
 
-### \*\*Option 1 — Local Jupyter Notebook\*\*
+### **Option 1 — Local Jupyter Notebook**
 
 Run the following:
 
@@ -122,7 +122,7 @@ Copy code
 
 
 
-### \*\*Option 2 — Google Colab\*\*
+### **Option 2 — Google Colab\**
 
 1\. Upload the notebook  
 
@@ -184,7 +184,7 @@ Copy code
 
 
 
-## 🔗 Related Project Files
+##  Related Project Files
 
 
 
