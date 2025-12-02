@@ -1,4 +1,4 @@
-\# Week 1 — Linear Regression
+# Week 1 — Linear Regression
 
 
 
@@ -12,11 +12,11 @@ The focus for this week is understanding and implementing \*\*Linear Regression\
 
 
 
-\##  Notebook: `linear\_regression.ipynb`
+##  Notebook: `linear\_regression.ipynb`
 
 
 
-\### \*\*Overview\*\*
+### \*\*Overview\*\*
 
 This notebook introduces the fundamentals of \*\*Linear Regression\*\*, one of the simplest and most important models in Machine Learning.  
 
@@ -24,15 +24,15 @@ It is designed to help understand:
 
 
 
-\- What linear regression is  
+- What linear regression is  
 
-\- How data behaves in a regression problem  
+- How data behaves in a regression problem  
 
-\- How to generate synthetic data  
+- How to generate synthetic data  
 
-\- Basic data visualization  
+- Basic data visualization  
 
-\- Preparing the environment for reproducible experiments  
+- Preparing the environment for reproducible experiments  
 
 
 
@@ -44,21 +44,21 @@ This notebook is part of the \*\*Day 3 task\*\* in the project timeline.
 
 
 
-\##  What This Notebook Contains
+##  What This Notebook Contains
 
 
 
-\### 1. \*\*Setup \& Imports\*\*
+### 1. \*\*Setup \& Imports\*\*
 
 Initial configuration including:
 
-\- numpy  
+- numpy  
 
-\- pandas  
+- pandas  
 
-\- matplotlib  
+- matplotlib  
 
-\- scikit-learn  
+- scikit-learn  
 
 
 
@@ -70,7 +70,7 @@ A reproducible `seed = 42` is set.
 
 
 
-\### 2. \*\*Synthetic Dataset Generation\*\*
+### 2. \*\*Synthetic Dataset Generation\*\*
 
 We generate a simple dataset using:
 
@@ -84,7 +84,7 @@ This helps visualize how linear regression works without requiring any external 
 
 
 
-\### 3. \*\*Scatter Plot Visualization\*\*
+### 3. \*\*Scatter Plot Visualization\*\*
 
 A basic scatter plot is included to observe the relationship between `X` and `y`.
 
@@ -94,11 +94,11 @@ A basic scatter plot is included to observe the relationship between `X` and `y`
 
 
 
-\## ▶️ How to Run the Notebook
+##  How to Run the Notebook
 
 
 
-\### \*\*Option 1 — Local Jupyter Notebook\*\*
+### \*\*Option 1 — Local Jupyter Notebook\*\*
 
 Run the following:
 
@@ -122,7 +122,7 @@ Copy code
 
 
 
-\### \*\*Option 2 — Google Colab\*\*
+### \*\*Option 2 — Google Colab\*\*
 
 1\. Upload the notebook  
 
@@ -142,7 +142,7 @@ Copy code
 
 
 
-\## 📁 Folder Structure
+##  Folder Structure
 
 
 
@@ -166,17 +166,17 @@ Copy code
 
 
 
-\## 🎯 Next Steps (Coming in Day 4)
+##  Next Steps (Coming in Day 4)
 
 
 
-\- Add model training using Scikit-Learn  
+- Add model training using Scikit-Learn  
 
-\- Calculate metrics (MSE, R²)  
+- Calculate metrics (MSE, R²)  
 
-\- Plot the regression line  
+- Plot the regression line  
 
-\- Save experiment results to `experiments/week1/`
+- Save experiment results to `experiments/week1/`
 
 
 
@@ -184,15 +184,15 @@ Copy code
 
 
 
-\## 🔗 Related Project Files
+## 🔗 Related Project Files
 
 
 
-\- `requirements.txt` — required libraries  
+- `requirements.txt` — required libraries  
 
-\- `CONTRIBUTING.md` — contribution guidelines  
+- `CONTRIBUTING.md` — contribution guidelines  
 
-\- Root `README.md` — project overview  
+- Root `README.md` — project overview  
 
 
 
